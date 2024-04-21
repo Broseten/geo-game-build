@@ -4,63 +4,63 @@
             "id": "1",
             "name": "Green Tensegrity installations",
             "description": "Test",
-            "icon": "Dune",
+            "icon": "Chain",
             "cost": 70000
         },
         {
             "id": "2",
             "name": "Small Scale Pavillion Structure",
             "description": "Test",
-            "icon": "Green",
+            "icon": "Scales",
             "cost": 70000
         },
         {
             "id": "3",
             "name": "Urban Mobile Furniture",
             "description": "Test",
-            "icon": "Tools",
+            "icon": "Plank",
             "cost": 60000
         },
         {
             "id": "4",
             "name": "Digitally Fabricated Vegetables Garden",
             "description": "Test",
-            "icon": "Rock",
+            "icon": "Carrot",
             "cost": 60000
         },
         {
             "id": "5",
             "name": "Temporary Structures from Recycled Material",
             "description": "Test",
-            "icon": "Earth",
+            "icon": "Refresh",
             "cost": 70000
         },
         {
             "id": "6",
             "name": "Reactivation of Open Spaces through NBS",
             "description": "Test",
-            "icon": "Earth",
+            "icon": "Green",
             "cost": 70000
         },
         {
             "id": "7",
             "name": "Virtual Exhibition Archive",
             "description": "Test",
-            "icon": "Earth",
+            "icon": "CD",
             "cost": 70000
         },
         {
             "id": "8",
             "name": "Projection mapping on Kinetic surfaces",
             "description": "Test",
-            "icon": "Earth",
+            "icon": "City",
             "cost": 70000
         },
         {
             "id": "9",
             "name": "AR enriched human-place interaction",
             "description": "Test",
-            "icon": "Earth",
+            "icon": "Camera",
             "cost": 70000
         }
     ]
