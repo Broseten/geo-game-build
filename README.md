@@ -35,3 +35,14 @@ Allowed icon names
 - Tools
 - Video
 - Wood
+
+Also new allowed solution icon names:
+- AR
+- DigFabVegGarden
+- GreenTensegrity
+- MobileFurniture
+- NBSReactivation
+- ProjectionMapping
+- Recycled
+- SmallScale
+- VirtualExhibition

@@ -2,65 +2,65 @@
     "eba": [
         {
             "id": "1",
-            "name": "Its primary function will be the improvement of public space through the installation of a semi-permanent green structure. A secondary function will be educational, as the self-sustaining system will allow the target communities to familiarize themselves with innovative design and nature-based solutions.",
-            "description": "Test",
-            "icon": "Chain",
+            "name": "Green Tensegrity Installations",
+            "description": "Its primary function will be the improvement of public space through the installation of a semi-permanent green structure. A secondary function will be educational, as the self-sustaining system will allow the target communities to familiarize themselves with innovative design and nature-based solutions.",
+            "icon": "GreenTensegrity",
             "cost": 70000
         },
         {
             "id": "2",
             "name": "Small Scale Pavillion Structure",
             "description": "To be described",
-            "icon": "Scales",
+            "icon": "SmallScale",
             "cost": 70000
         },
         {
             "id": "3",
             "name": "Urban Mobile Furniture",
             "description": "Movable and modular solution designed with a specific joinery system – fabricated with cheap sustainable materials like wood. Depending on how the modules are connected it can take several forms and sizes and address multiple functions such as cultivation space, sport facility, market and leisure infrastructure, scenario for a theatre, food workstation, etc.",
-            "icon": "Plank",
+            "icon": "MobileFurniture",
             "cost": 60000
         },
         {
             "id": "4",
             "name": "Digitally Fabricated Vegetables Garden",
             "description": "green modular system fabricated with advanced manufacturing techniques (e.g., CNC milling, 3d printing) and composed of modules that can act as containers for the cultivation of plants (aromatic herbs, vegetables, flowers, etc) or used to host for hosting other living systems, (birds, bees, butterflies)",
-            "icon": "Carrot",
+            "icon": "DigFabVegGarden",
             "cost": 60000
         },
         {
             "id": "5",
             "name": "Temporary Structures from Recycled Material",
             "description": "Temporary structures (e.g., movable roof for exhibitions or a lightweight interior partition) are be fabricated using organic waste following a full life-cycle design the “Cradle-to-cradle” approach. The solution incorporates local food waste, such as orange peel or coffee grounds collected from the urban environment and the local community.",
-            "icon": "Refresh",
+            "icon": "Recycled",
             "cost": 70000
         },
         {
             "id": "6",
             "name": "Reactivation of Open Spaces through NBS",
             "description": "Nature-based solutions (NBS) are technical solutions which deploy natural processes as well as vegetation and sustainable materials to address complex environmental challenges with a multi-stakeholder interdisciplinary approach.",
-            "icon": "Green",
+            "icon": "NBSReactivation",
             "cost": 70000
         },
         {
             "id": "7",
             "name": "Virtual Exhibition Archive",
             "description": "It will render a continuous space that grows in a systematic manner as new items are added. A concept model of a modular space that is designed to function as a basic exhibition space in the physical environment, and as an archive of artifacts in the virtual,",
-            "icon": "CD",
+            "icon": "VirtualExhibition",
             "cost": 70000
         },
         {
             "id": "8",
             "name": "Projection mapping on Kinetic surfaces",
             "description": "The projection theme on the movable tiles of the interactive surface will be inspired by the cultural and historical heritage and the visions of the community.",
-            "icon": "City",
+            "icon": "ProjectionMapping",
             "cost": 70000
         },
         {
             "id": "9",
             "name": "AR enriched human-place interaction",
             "description": "It will focus on specific soundscapes, which are a combination of sound in an immersive environment, to facilitate many different contextrich experiences in open spaces, and projection mapping to enhance and transform the public shapes.",
-            "icon": "Camera",
+            "icon": "AR",
             "cost": 70000
         }
     ]
