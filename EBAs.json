@@ -10,7 +10,7 @@
         {
             "id": "2",
             "name": "Small Scale Pavillion Structure",
-            "description": "To be described",
+            "description": "Innovative spatial and structural concepts will be developed to design and construct a small pavilion structure. The pavilion will serve as a landmark and may function as an information hub, an attractor of cultural events or exhibits, etc. It can be combined with other solutions to create an integrative and multifunctional environment, including a green wall, VR/AR, and Projection Mapping.",
             "icon": "SmallScale",
             "cost": 70000
         },
@@ -24,28 +24,28 @@
         {
             "id": "4",
             "name": "Digitally Fabricated Vegetables Garden",
-            "description": "green modular system fabricated with advanced manufacturing techniques (e.g., CNC milling, 3d printing) and composed of modules that can act as containers for the cultivation of plants (aromatic herbs, vegetables, flowers, etc) or used to host for hosting other living systems, (birds, bees, butterflies)",
+            "description": "This is a green modular system made using advanced manufacturing techniques. It has modules for growing plants and hosting living systems. It provides a green infrastructure for gardening activities open to all, and can be replicated to other sites. Collaboration strengthens the local community's sense of belonging and awareness of innovative techniques and sustainable materials.",
             "icon": "DigFabVegGarden",
             "cost": 60000
         },
         {
             "id": "5",
             "name": "Temporary Structures from Recycled Material",
-            "description": "Temporary structures (e.g., movable roof for exhibitions or a lightweight interior partition) are be fabricated using organic waste following a full life-cycle design the “Cradle-to-cradle” approach. The solution incorporates local food waste, such as orange peel or coffee grounds collected from the urban environment and the local community.",
+            "description": "Organic waste can be used to create temporary structures like movable roofs and lightweight partitions, following a full life-cycle design approach known as "Cradle-to-cradle". Local food waste, such as orange peels or coffee grounds, can be used based on the properties and performance requirements needed for the structure.",
             "icon": "Recycled",
             "cost": 70000
         },
         {
             "id": "6",
             "name": "Reactivation of Open Spaces through NBS",
-            "description": "Nature-based solutions (NBS) are technical solutions which deploy natural processes as well as vegetation and sustainable materials to address complex environmental challenges with a multi-stakeholder interdisciplinary approach.",
+            "description": "Nature-based solutions (NBS) use natural processes, vegetation, and sustainable materials to tackle environmental challenges with a multi-stakeholder, interdisciplinary approach. NBS contributes to both climate adaptation goals and social inclusion objectives. Moreover, it provides social benefits like environmental education, ecological practices, and participatory planning and maintenance models that ensure social justice, inclusion, and improved well-being.",
             "icon": "NBSReactivation",
             "cost": 70000
         },
         {
             "id": "7",
             "name": "Virtual Exhibition Archive",
-            "description": "It will render a continuous space that grows in a systematic manner as new items are added. A concept model of a modular space that is designed to function as a basic exhibition space in the physical environment, and as an archive of artifacts in the virtual,",
+            "description": "Combining AR and VR can improve exhibit understanding. A modular space concept is being developed for both physical and virtual environments. Visitors can interact with displayed items in the physical environment while those in the virtual environment require a VR headset and controllers. Alternatively, a mobile AR app will be developed allowing visitors to view physical objects in a virtual background using their camera.",
             "icon": "VirtualExhibition",
             "cost": 70000
         },
@@ -59,7 +59,7 @@
         {
             "id": "9",
             "name": "AR enriched human-place interaction",
-            "description": "It will focus on specific soundscapes, which are a combination of sound in an immersive environment, to facilitate many different contextrich experiences in open spaces, and projection mapping to enhance and transform the public shapes.",
+            "description": "HERITACT uses augmented reality to improve human-place interaction. It studies different reality enhancement technologies to help citizens with sensory dysfunctions and those of different age and interest groups. By studying interactions between physical spaces and people. The project focuses on specific soundscapes and projection mapping to enhance public shapes, supporting two applications.",
             "icon": "AR",
             "cost": 70000
         }
