@@ -31,14 +31,14 @@
         {
             "id": "5",
             "name": "Temporary Structures from Recycled Material",
-            "description": "Organic waste can be used to create temporary structures like movable roofs and lightweight partitions, following a full life-cycle design approach known as "Cradle-to-cradle". Local food waste, such as orange peels or coffee grounds, can be used based on the properties and performance requirements needed for the structure.",
+            "description": "This is a green modular system made using advanced manufacturing techniques. It has modules for growing plants and hosting living systems. It provides a green infrastructure for gardening activities open to all, and can be replicated to other sites. Collaboration strengthens the local community's sense of belonging and awareness of innovative techniques and sustainable materials.",
             "icon": "Recycled",
             "cost": 70000
         },
         {
             "id": "6",
             "name": "Reactivation of Open Spaces through NBS",
-            "description": "Nature-based solutions (NBS) use natural processes, vegetation, and sustainable materials to tackle environmental challenges with a multi-stakeholder, interdisciplinary approach. NBS contributes to both climate adaptation goals and social inclusion objectives. Moreover, it provides social benefits like environmental education, ecological practices, and participatory planning and maintenance models that ensure social justice, inclusion, and improved well-being.",
+            "description": "This is a green modular system made using advanced manufacturing techniques. It has modules for growing plants and hosting living systems. It provides a green infrastructure for gardening activities open to all, and can be replicated to other sites. Collaboration strengthens the local community's sense of belonging and awareness of innovative techniques and sustainable materials.",
             "icon": "NBSReactivation",
             "cost": 70000
         },
