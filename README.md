@@ -1,48 +1,7 @@
-Allowed icon names
-- Apple
-- Axe
-- Bag
-- Book
-- Broccoli
-- Butterfly
-- Camera
-- Car
-- Carrot
-- CD
-- Chain
-- Chest
-- City
-- Commercial
-- Cycle
-- Dune
-- Earth
-- Glasses
-- Green
-- Home
-- House
-- Location
-- Log
-- Phone
-- Plank
-- Rain
-- Refresh
-- Residential
-- Road
-- Rock
-- Scales
-- Sun
-- TestCube
-- Tools
-- Video
-- Wood
+# NegoDesign tool
 
-Also new allowed solution icon names:
-- AR
-- DigFabVegGarden
-- GreenTensegrity
-- MobileFurniture
-- NBSReactivation
-- ProjectionMapping
-- Recycled
-- SmallScale
-- VirtualExhibition
+The NegoDesign tool is a digital serious game that facilitates collaborative urban planning. This free and user-friendly tool allows groups and individuals to plan specific spatial solutions based on pre-defined, economically evaluated measures. Its collaborative feature enables participants to vote on the most optimal projects selected by other groups, fostering a transparent and justful participatory planning process.
+
+The tool can be applied in various planning areas, such as addressing climate hazards, enhancing social infrastructure, improving public spaces, thus promoting sustainable urban development.
+
+More information at https://heritact-toolkit.eu/negodesign
